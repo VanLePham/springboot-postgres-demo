@@ -1,6 +1,7 @@
 ## springboot-postgres-demo
-A simple demo of Spring boot, Postgresql, JPA, and Hibernate REST API.
-Dockerfile is added for dockerized purpose.
+A simple demo of Spring boot, Postgresql, JPA, and Hibernate REST API. 
+Dockerfile is added for dockerized purpose. 
+dockerfile-maven-plugin is added to build docker image at maven build step (in Package Explorer, right click on project -> Run As -> Maven install
 
 ## Credit:
 A copied of the original project at [Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Example](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/) and [source code](https://github.com/callicoder/spring-boot-postgresql-jpa-hibernate-rest-api-demo)
